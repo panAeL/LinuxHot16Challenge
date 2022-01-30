@@ -1,0 +1,113 @@
+# AUTOR: panAeL
+# Zasady: https://github.com/ZPXD/LinuxHot16Challenge
+
+# HOT 16
+
+# 1. cd
+# (Change Directory) Pozwala przemieszczać się między katalogami
+
+# 2. ls
+# (List) Wyświetla zawartość aktualnego katalogu
+
+# 3. pwd
+# (Print Working Directory) Pokazuje ścieżkę aktualnego katalogu
+
+# 4. cp 
+# (Copy) Kopiuje plik, np. copy plik_1.py plik_2.py
+
+# 5. mkdir 
+# (Make Directory) Tworzy nowy katalog
+
+# 6. rmdir 
+# (Remove Directory) Usuwa katalog
+
+# 7. mv
+# (Move) Przenosi plik do innego katalogu, np. move plik_1.py Piaskownica
+
+# 8. rm 
+# (Remove) Usuwa plik
+
+# 9. touch 
+# Tworzy nowy plik
+
+# 10. clear
+# Czyści terminal
+
+# 11. mvdir
+# (Move directory) przenosi katalog lub zmienia jego nazwę
+
+# 12. su
+# (Switch User) przelogowuje na wskazanego użytkownika
+
+# 13. less
+# Pozwala na szybkie przeglądanie plików tekstowych
+
+# 14. find
+# Przegląda katalog w poszukiwaniu danego pliku, np. find plik_1.py
+
+# 15. locate
+# Pozwala zlokalizować plik
+
+# 16. man 
+# (Manual) wyświetla pomoc dla danej komendy, np. man pwd
+
+
+
+# HOT 32
+
+# 17. passwd
+# Pozwala zmienić hasło użytkownika
+
+# 18. whoami
+# Wyświetla informacje o użytkowniku
+
+# 19. useradd
+# Dodaje konto użytkownika na serwerze
+
+# 20. userdel
+# Usuwa konto użytkownika na serwerze
+
+# 21. head
+# Wyświetla tylko początkowe linie (domyślnie 10) pliku, np. head 20 plik_1.py
+
+# 22. tail 
+# Wyświetla tylko końcowe linie (domyślnie 10) pliku, np. tail 20 plik_1.py
+
+# 23. history
+# Wyświetla historię komend
+
+# 24. exit
+# Zamyka terminal
+
+# 25. vim
+# Edytor tekstu otwierający plik bądz, gdy plik nie istnieje, tworzący go. Powodzenia z wyjściem xD
+
+# 26. kill
+# Zabija wskazany proces
+
+# 27. sudo
+# Uruchamia program z uprawnieniami administratora
+
+# 28. ping 
+# Sprawdza czy istnieje połączenie sieciowe
+
+# 29. ps 
+# Wypisuje procesy uruchomione na komputerze
+
+# 30. help
+# Wyświetla wszystkie polecenia z Linuxie
+
+# 31. apt
+# Instalacja wskazanych pakietów
+
+# 32. diff
+# Pokazuje róznice między plikami
+
+
+
+
+#### ZPXD:
+# Darmowe roczne zajęcia z programowania. Zapraszajcie:
+# Szturm na AWS - www: https://zajecia-programowania-xd.pl/szturm_na_aws
+# Szturm na AWS - fb: https://www.facebook.com/Szturm-na-AWS-109216351659123
+# Szturm na AWS - discord: https://discord.gg/46JVvHgzqz
